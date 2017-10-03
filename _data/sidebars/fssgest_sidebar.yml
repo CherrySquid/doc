@@ -1,0 +1,91 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: FssGest Clinic
+  version: 0.1
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Principal
+    output: web, pdf
+    folderitems:
+    - title: Portada
+      url: /fssgest_landing_page.html
+      output: web
+
+    - title: Decision Log
+      url: /fssgest_home_decision_log.html
+      output: web, pdf
+
+    - title: Entidades
+      url: /fssgest_home_entity.html
+      output: web, pdf
+
+  - title: Fases
+    output: web, pdf
+    folderitems:
+    - title: Portada
+      url: /fssgest_fases_landingpage.html
+      output: web, pdf
+
+    - title: Fase de Inicio
+      url: /fssgest_fases_inicio.html
+      output: web, pdf
+
+    - title: Fase de Crecimiento
+      url: /fssgest_fases_crecim.html
+      output: web, pdf
+
+      subfolders:
+      - title: Fase de Analisis
+        output: web, pdf
+        subfolderitems:
+
+        - title: Analisis de Datos
+          url: /fssgest_fase_anls_data.html
+          output: web, pdf
+
+        - title: Analisis del Sistema
+          url: /fssgest_fase_anls_system.html
+          output: web, pdf
+
+        - title: Others
+          url: /fssgest_fase_anls_other.html
+          output: web, pdf
+
+  - title: Release Notes
+    output: web, pdf
+    folderitems:
+    - title: 1.0 release notes
+      url: /fssgest_rels_10.html
+      output: web, pdf
+
+    - title: 1.x release notes
+      url: /fssgest_rels_1x.html
+      output: web, pdf
+
+  - title: Reuniones
+    output: web, pdf
+    folderitems:
+
+    - title: Titulo 1
+      url: /not-build-yet.html
+      output: web, pdf
+
+    - title: Titulo2
+      url: /not-build-yet.html
+      output: web, pdf

@@ -1,4 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: cherrysquid/doc
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -69,6 +69,36 @@ collections:
 defaults:
   -
     scope:
+      path: "pages/general"
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      sidebar: general_sidebar
+      topnav: topnav
+  -
+    scope:
+      path: "pages/repairmob"
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      sidebar: repairmob_sidebar
+      topnav: topnav
+  -
+    scope:
+      path: "pages/fssgest"
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      sidebar: fssgest_sidebar
+      topnav: topnav
+  -
+    scope:
       path: ""
       type: "pages"
     values:
@@ -102,6 +132,7 @@ defaults:
 
 sidebars:
 - home_sidebar
+- general_sidebar
 - mydoc_sidebar
 - product1_sidebar
 - product2_sidebar

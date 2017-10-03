@@ -13,11 +13,11 @@ topnav_dropdowns:
     - title: Products
       folderitems:
         - title: FsoGest
-          url: /fisiogest_page.html
+          url: /fssgest_landing_page.html
         - title: Srttfy
           url: /sporttify_page.html
         - title: MbRepairGest
-          url: /MobileRepairGest_page.html
+          url: /repmob_landing_page.html
     - title: Jekyll Help
       folderitems:
         - title: Jekyll Talk
