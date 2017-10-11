@@ -48,23 +48,46 @@ Despues de estudiar unos dias como está el mercado y las herramientas actuales,
 
 ### Sketch
 
+#### Tutorials
 
-
+  - [Text System Mastery with Shared Styles](Learn how to effectively use and store fonts with sketch app to bring your typography consistency to a new level.)</br>
+      
+  - [Hacking Tables in Sketch App](https://medium.com/sketch-app-sources/hacking-tables-in-sketch-app-745e9b961992)<br> 
+    Building a reusable table using component-based design and symbol overrides techniques.
+    
+  - [How to change your design on the fly in no time with Sketch](https://medium.com/sketch-app-sources/how-to-change-your-design-on-the-fly-in-no-time-with-sketch-1a5a3ab0cdec)<br> 
+      Learn how to move from prototype to final design and be more positive when it comes to changing things that are already done..
+  - [A better way to use mockups in sketch](https://medium.com/sketch-app-sources/a-better-way-to-use-mockups-in-sketch-995c01e09eda)<br> 
+      Learn how to effectively use mockups using the power of nested symbols.
+  - [How to make responsive Forms in Sketch](https://medium.com/robowolf/responsive-forms-frames-for-sketch-1-e5bc9e3ffa5f)<br> 
+      Use the power of nested symbols to turn a simple rectangle with text into a muscular user-oriented form elements.
+  - [How to make responsive Forms in Sketch](https://medium.com/robowolf/responsive-forms-frames-for-sketch-1-e5bc9e3ffa5f)<br> 
+      Use the power of nested symbols to turn a simple rectangle with text into a muscular user-oriented form elements..      
 
 #### Plugins Musthave
 
 -  
+#### Links Resources
 
+  ##### [SketchCloud](https://sketch.cloud)
+  
+    Share your designs with the people that matter
+    With Sketch Cloud you can quickly upload your documents and share them with friends, clients and colleagues.
+  
+  
 
-#### Links
+#### Links Learning
 
 - [23 top Sketch plugins](http://www.creativebloq.com/web-design/top-sketch-plugins-101517420)
 - []
 
-  **[Design+Sketch](https://medium.com/sketch-app-sources)**
+  ##### [Design+Sketch](https://medium.com/sketch-app-sources)
+      The best collection of articles, tips, tutorials, and stories on designing and prototyping 
+      with Sketch and beyond
+      
+  - 
   
-  The best collection of articles, tips, tutorials, and stories on designing and prototyping with Sketch and beyond
-  
+  - [Setting Up a Design System](https://medium.com/sketch-app-sources/setting-up-a-design-system-8729510def93)
   - [The Best Way to Export an SVG from Sketch](https://medium.com/sketch-app-sources/the-best-way-to-export-an-svg-from-sketch-dd8c66bb6ef2)
   - [Unleashing The Full Potential Of Symbols In Sketch](https://medium.com/sketch-app-sources/sketch-symbols-b36f7355414a)
   
@@ -75,5 +98,26 @@ Despues de estudiar unos dias como está el mercado y las herramientas actuales,
   - [How to Create a Responsive Landing Page with Sketch](https://medium.com/sketch-app-sources/how-to-create-a-responsive-landing-page-with-sketch-af8c8785ae0b)
   - [FontBuddy for Sketch — Never Deal With Missing Fonts Again](https://medium.com/sketch-app-sources/fontbuddy-for-sketch-never-deal-with-missing-fonts-again-da627cfc93ee)
   
+    
+#### Links Tools
+
+   **[Anima App](https://medium.com/sketch-app-sources)**
+    
+    Empowering designers
+    
+    - [Go Even Faster from Sketch to HTML](https://medium.com/sketch-app-sources/go-even-faster-from-sketch-to-html-67be84f0363b)
+    - [Building AnimaApp.com with Sketch](https://medium.com/sketch-app-sources/building-animaapp-com-with-sketch-4d08f2f68490)
+
+
+## Post and Blogs interesting
+
+  - [Intro to The 8-Point Grid System](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632)
+    As a designer you’ve probably heard the term grid whether you’re designing a website, a magazine, or a mobile app. We have grids for all sorts of content arrangements. We use column grids to align content horizontally. Baseline grids to vertically align bodies of text. Soft grids and hard grids to describe how strictly we adhere to them. I took interest in the 8pt grid system after hearing Bryn Jackson avidly talk about it. I decided to find out what, if any, benefits an 8pt system could give my designs.
+  - [8-Point Grid: Vertical Rhythm](https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032)
+    The 8-point grid is a powerful system for creating consistent and visually appealing user interfaces (UIs). This post is about how to establish vertical rhythm and set typography in an 8pt grid system. To get caught up, check out The Intro to 8-Point Grid Systems and get tricky with 8-Point Grid: Borders and Layouts.
+  - [8-Point Grid: Borders And Layouts](https://builttoadapt.io/8-point-grid-borders-and-layouts-e91eb97f5091)
+    In my first post about The Intro to 8-Point Grid System I laid out the key reasons to convert your workflow. This is a deep dive into some of the tricky questions I’ve had to answer while moving our design system at Pivotal Cloud Foundry towards the 8pt system.
+  
+
 
 {% include links.html %}
