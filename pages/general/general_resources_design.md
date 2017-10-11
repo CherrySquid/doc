@@ -66,11 +66,59 @@ Despues de estudiar unos dias como está el mercado y las herramientas actuales,
 
 #### Plugins Musthave
 
--  
+  ##### Colors
+  - [Alembic — A Sketch plugin that extracts a color palette from any layer that contains bitmap data](https://t.co/ctjirN7osh)
+  - [Create dynamic color relations in Sketch](Simply select the layers to chain, the reference color and the transformations you want to apply.)
+  - [Find color palette of any App](https://github.com/carlosarturo28/appalette)
+      A Sketch plugin that lets you find the color palette of (almost) any App.
+  
+  
+  ##### Work
+  - [Find and Replace for Sketch](https://github.com/thierryc/sketch-find-and-replace)
+  - [Use Icon Fonts in Sketch](https://github.com/keremciu/sketch-iconfont)
+    This plugin helps you easily insert and manage icons from icon fonts - such as FontAwesome, Ion or Material Design Icons - in your Sketch designs.
+    
+  ##### Collabore
+  - [Sketch Focus](https://blog.prototypr.io/the-ultimate-list-that-you-need-of-plugins-for-sketch-fb59d4dedb87)
+    Easily add notes and tasks (items) to your Sketch documents to keep track of what you need to do to particular layers, artboards or pages.
+
+
+    
+  ##### Publish
+  - [LaunchPad: Publish Websites from Sketch](https://www.animaapp.com/)
+    Launchpad is a Sketch plugin that allows you to publish responsive websites directly from Sketch. 
+    No need to code. You design, we put it on the web.
+  
+  ##### Flow
+  - [User Flows](https://abynim.github.io/UserFlows/)
+    A plugin for generating flow diagrams from Artboards in Sketch.
+  
+  ##### Generator
+  - [Sketch Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
+    Working with large sets of content is time-consuming. Traditionally, we collect avatars and background images, so that we can populate them in our user interfaces using Pattern Fill or Mask. It’s an arduous process when you deal with hundreds of items.
+  - [Sketch Material](https://websiddu.github.io/sketch-material/)
+    Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
+    
+  ##### Utils
+  - [Skatter](https://github.com/joshdjuric/Skatter)
+    A plugin with tools (currently very basic tools) to assist with creating patterns out of shapes.
+  - [Looper](http://sureskumar.com/looper/)
+    Duplicate, Rotate and Scale the smart way.
+    Sketch plugin by Sures kumar
+  - [Nudged](https://github.com/KevinWoodhouse/sketch-nudged)
+    A Sketch plugin to easily edit your nudge distance settings
+  - [Auto-Layout](https://animaapp.github.io/Auto-Layout/)
+    Design responsive screens in Sketch and publish to HTML
+  - [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin)
+    Pixel Perfecter helps you find pixel imperfect layers in your documents.
+  - [Compo]()
+    Compo is a Sketch plugin that makes it easier to work with interface components. With Compo, pressing ⌘J is all it takes to turn a text layer into a button or put an existing component in order
+  
+    
+    
 #### Links Resources
 
-  ##### [SketchCloud](https://sketch.cloud)
-  
+  ##### SketchCloud [SketchCloud](https://sketch.cloud)
     Share your designs with the people that matter
     With Sketch Cloud you can quickly upload your documents and share them with friends, clients and colleagues.
   
@@ -90,6 +138,7 @@ Despues de estudiar unos dias como está el mercado y las herramientas actuales,
   - [Setting Up a Design System](https://medium.com/sketch-app-sources/setting-up-a-design-system-8729510def93)
   - [The Best Way to Export an SVG from Sketch](https://medium.com/sketch-app-sources/the-best-way-to-export-an-svg-from-sketch-dd8c66bb6ef2)
   - [Unleashing The Full Potential Of Symbols In Sketch](https://medium.com/sketch-app-sources/sketch-symbols-b36f7355414a)
+  - $$[Create your own data to use in Sketch (no code required)](https://medium.com/sketch-app-sources/create-your-own-data-to-use-in-sketch-no-code-required-4aa79d0335cd)
   
   - Responsive Design in Sketch
     * [Parte-1](https://medium.com/sketch-app-sources/exploration-of-responsive-design-in-sketch-part-1-1af4cf415a82)
@@ -98,15 +147,16 @@ Despues de estudiar unos dias como está el mercado y las herramientas actuales,
   - [How to Create a Responsive Landing Page with Sketch](https://medium.com/sketch-app-sources/how-to-create-a-responsive-landing-page-with-sketch-af8c8785ae0b)
   - [FontBuddy for Sketch — Never Deal With Missing Fonts Again](https://medium.com/sketch-app-sources/fontbuddy-for-sketch-never-deal-with-missing-fonts-again-da627cfc93ee)
   
+  - [6 UX Designers Share Why Sketch Is Their Go-To Design Tool](https://medium.com/sketch-app-sources/6-ux-designers-share-why-sketch-is-their-go-to-design-tool-3e9d5dfa7fa1)
+  - [Create a simple spinner icon in Sketch](https://medium.com/sketch-app-sources/create-a-simple-spinner-icon-in-sketch-7b9ce20ee9f2)
     
 #### Links Tools
 
    **[Anima App](https://medium.com/sketch-app-sources)**
+     Empowering designers
     
-    Empowering designers
-    
-    - [Go Even Faster from Sketch to HTML](https://medium.com/sketch-app-sources/go-even-faster-from-sketch-to-html-67be84f0363b)
-    - [Building AnimaApp.com with Sketch](https://medium.com/sketch-app-sources/building-animaapp-com-with-sketch-4d08f2f68490)
+   - [Go Even Faster from Sketch to HTML](https://medium.com/sketch-app-sources/go-even-faster-from-sketch-to-html-67be84f0363b)
+   - [Building AnimaApp.com with Sketch](https://medium.com/sketch-app-sources/building-animaapp-com-with-sketch-4d08f2f68490)
 
 
 ## Post and Blogs interesting
