@@ -308,7 +308,7 @@
       <workItem from="1506952439233" duration="605000" />
       <workItem from="1506962274134" duration="6431000" />
       <workItem from="1507014552089" duration="14827000" />
-      <workItem from="1507702161076" duration="4257000" />
+      <workItem from="1507702161076" duration="4310000" />
     </task>
     <task id="LOCAL-00001" summary="[MOD] Config general and products sidebar and documents.&#10;&#10;* General documentation&#10;* Products (fssgest, repairmob, ...).&#10;* Create template sidebar for future products.">
       <created>1507709299315</created>
@@ -331,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507709402616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[ADD] DOC General. Design Resources.&#10;&#10;* Design Resources page for General Documentation.">
+      <created>1507709418900</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507709418900</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28870000" />
+    <option name="totallyTimeSpent" value="28923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2064" height="1138" extended-state="6" />
