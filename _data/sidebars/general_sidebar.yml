@@ -31,6 +31,10 @@ entries:
       url: /general_tools.html
       output: web, pdf
 
+    - title: Tools-Design
+      url: /general_resouces_design.html
+      output: web, pdf
+
     - title: About
       url: /general_about.html
       output: web, pdf
