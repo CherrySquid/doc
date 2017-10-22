@@ -6,11 +6,121 @@
 
 
 {
-"title": "Getting started with the Documentation Theme for Jekyll",
+"title": "Fase de inicio",
+"tags": "phase",
+"keywords": "interview meeting",
+"url": "fssgest_fases_inicio.html",
+"summary": "Reuniones y entrevistas iniciales con el Cliente y equipo."
+}
+,
+
+
+
+{
+"title": "Decision Log",
+"tags": "log",
+"keywords": "log, decision",
+"url": "fssgest_home_decision_log.html",
+"summary": "Toma de decisiones"
+}
+,
+
+
+
+{
+"title": "Entidades",
+"tags": "phase",
+"keywords": "entity",
+"url": "fssgest_home_entity.html",
+"summary": "Relacion de entidades y explicacion de las mismas."
+}
+,
+
+
+
+{
+"title": "FssGest Clinic",
+"tags": "",
+"keywords": "fssgest",
+"url": "fssgest_landing_page.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Recursos, Tutoriales y enlaces sobre React, Redux, ES6 y mas...",
+"tags": "devreact",
+"keywords": "dev, react, redux, Frontend",
+"url": "general_Dev_FrontEnd_ReactStack.html",
+"summary": "Coleccion de articulos de mucha calidad para el aprendizaje y dominio de las tecnologicas del FrontEnd, para el nuevo paradigma."
+}
+,
+
+
+
+{
+"title": "About",
 "tags": "getting_started",
-"keywords": "sample homepage",
+"keywords": "documentation technical writers, documentation",
+"url": "general_about.html",
+"summary": "About info CherrySquid company."
+}
+,
+
+
+
+{
+"title": "Recursos sobre Bases de Datos (NoSQL y Relacionales)",
+"tags": "database",
+"keywords": "database nosql relational",
+"url": "general_resouces_db.html",
+"summary": "Recursos, aprendizaje y buenas practicas para el diseño de Base de Datos, NoSQL y Relacionales"
+}
+,
+
+
+
+{
+"title": "Recursos sobre Diseño y Prototipado de Aplicaciones",
+"tags": "designprototyping",
+"keywords": "design prototitye",
+"url": "general_resouces_design.html",
+"summary": "Herramientas y recursos para diseño y prototipado de aplicaciones"
+}
+,
+
+
+
+{
+"title": "Procesos y procedimientos sobre Diseño y Prototipado de Aplicaciones",
+"tags": "designprototyping",
+"keywords": "design prototitye",
+"url": "general_resources_design_howto.html",
+"summary": "Procesos y procedimientos sobre diseño y prototipado"
+}
+,
+
+
+
+{
+"title": "Herramientas y Plataformas",
+"tags": "platformtool",
+"keywords": "introduccion inicio",
+"url": "general_tools.html",
+"summary": "Herramientas a utilizar en el desarrollo de aplicaciones"
+}
+,
+
+
+
+{
+"title": "CherrySquid Documentation",
+"tags": "",
+"keywords": "introduccion inicio",
 "url": "index.html",
-"summary": "These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll."
+"summary": "Espacio de documentacion comun para CherrySquid."
 }
 ,
 
@@ -644,10 +754,10 @@
 
 
 {
-"title": "Product 1",
+"title": "En construcción",
 "tags": "",
-"keywords": "mydoc",
-"url": "p1_landing_page.html",
+"keywords": "",
+"url": "not-build-yet.html",
 "summary": ""
 }
 ,
@@ -732,76 +842,10 @@
 
 
 {
-"title": "Product 2",
-"tags": "",
-"keywords": "mydoc",
-"url": "p2_landing_page.html",
-"summary": ""
-}
-,
-
-
-
-{
 "title": "Sample 1 Topic",
 "tags": "",
 "keywords": "sample",
 "url": "p2_sample1.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 10 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample10.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 11 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample11.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 12 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample12.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 13 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample13.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 14 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample14.html",
 "summary": "This is just a sample topic..."
 }
 ,
@@ -852,47 +896,18 @@
 
 
 
+
+
 {
-"title": "Sample 6 Topic",
+"title": "RepairMob Gest",
 "tags": "",
-"keywords": "sample",
-"url": "p2_sample6.html",
-"summary": "This is just a sample topic..."
+"keywords": "repairmob",
+"url": "repmob_landing_page.html",
+"summary": ""
 }
 ,
 
 
-
-{
-"title": "Sample 7 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample7.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 8 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample8.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 9 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample9.html",
-"summary": "This is just a sample topic..."
-}
-,
 
 
 

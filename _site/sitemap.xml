@@ -28,6 +28,66 @@
   
   
   <url>
+    <loc>http://localhost:4000/fssgest_fases_inicio.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/fssgest_home_decision_log.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/fssgest_home_entity.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/fssgest_landing_page.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/general_Dev_FrontEnd_ReactStack.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/general_about.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/general_resouces_db.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/general_resouces_design.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/general_resources_design_howto.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/general_tools.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/index.html</loc>
   </url>
   
@@ -376,7 +436,7 @@
   
   
   <url>
-    <loc>http://localhost:4000/p1_landing_page.html</loc>
+    <loc>http://localhost:4000/not-build-yet.html</loc>
   </url>
   
   
@@ -424,43 +484,7 @@
   
   
   <url>
-    <loc>http://localhost:4000/p2_landing_page.html</loc>
-  </url>
-  
-  
-  
-  <url>
     <loc>http://localhost:4000/p2_sample1.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/p2_sample10.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/p2_sample11.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/p2_sample12.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/p2_sample13.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/p2_sample14.html</loc>
   </url>
   
   
@@ -489,27 +513,13 @@
   
   
   
-  <url>
-    <loc>http://localhost:4000/p2_sample6.html</loc>
-  </url>
-  
   
   
   <url>
-    <loc>http://localhost:4000/p2_sample7.html</loc>
+    <loc>http://localhost:4000/repmob_landing_page.html</loc>
   </url>
   
   
-  
-  <url>
-    <loc>http://localhost:4000/p2_sample8.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/p2_sample9.html</loc>
-  </url>
   
   
   
