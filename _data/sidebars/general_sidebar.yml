@@ -27,13 +27,31 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Tools
-      url: /general_tools.html
-      output: web, pdf
+      subfolders:
 
-    - title: Tools-Design
-      url: /general_resouces_design.html
-      output: web, pdf
+      - title: Design
+        output: web, pdf
+        subfolderitems:
+
+        - title: Design-Resources
+          url: /general_resouces_design.html
+          output: web, pdf
+
+        - title: Design-HowTo
+          url: /general_resouces_design-howto.html
+          output: web, pdf
+
+      - title: Dev-Tools
+        output: web, pdf
+        subfolderitems:
+
+        - title: ReactStack
+          url: /general_Dev_FrontEnd_ReactStack.html
+          output: web, pdf
+
+        - title: ...
+          url: /general_Dev_FrontEnd_ReactStack.html
+          output: web, pdf
 
     - title: About
       url: /general_about.html

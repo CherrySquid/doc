@@ -1,10 +1,10 @@
 ---
-title: Recursos sobre Diseño y Prototipado de Aplicaciones
+title: Procesos y procedimientos sobre Diseño y Prototipado de Aplicaciones
 keywords: design prototitye
 tags: [design, prototyping]
 sidebar: general_sidebar
-permalink: general_resouces_design.html
-summary: Herramientas y recursos para diseño y prototipado de aplicaciones
+permalink: general_resources_design_howto.html
+summary: Procesos y procedimientos sobre diseño y prototipado
 folder: general
 ---
 
